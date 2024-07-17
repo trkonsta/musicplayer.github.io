@@ -1,0 +1,186 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+
+h1{
+    font-family: 'Fascinate Inline', cursive;
+    font-weight: normal;
+    font-size: 68px;
+    color: darkslategrey;
+}
+
+div{
+  width:250px;
+  height:250px;
+  display:inline-block;
+  border-radius:50%;
+}
+
+#creature{
+  background-image:url('creature.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#ribs{
+  background-image:url('ribs.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#bog{
+  background-image:url('bog.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#arboretrum{
+  background-image:url('arboretrum.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#birdcage{
+  background-image:url('birdcage.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#fair{
+  background-image:url('fair.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#wrong{
+  background-image:url('wrong.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#lemon{
+  background-image:url('lemon.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#monday{
+  background-image:url('monday.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#lying{
+  background-image:url('lying.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#joyful{
+  background-image:url('joyful.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#willow{
+  background-image:url('willow.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#heirloom{
+  background-image:url('heirloom.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#keefa{
+  background-image:url('keefa.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#finch{
+  background-image:url('finch.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#something{
+  background-image:url('something.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#apple{
+  background-image:url('apple.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#art{
+  background-image:url('art.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#amphibia{
+  background-image:url('amphibia.png');
+  border:5px solid;
+  background-position:center;
+  background-size:contain;
+}
+
+#music{
+  text-decoration:none;
+  width:400px;
+  background-color:antiquewhite;
+  display:inline-block;
+  border-radius:40px;
+  border:4px solid;
+  font-family: 'Fascinate Inline', cursive;
+  font-weight: normal;
+  font-size: 68px;
+  color: darkslategrey;
+  text-align:center;
+}
+
+
+a{
+  font-size:20px;
+  font-family:"DM Serif Display", serif;
+  text-decoration:none;
+  color:darkslategray;
+  width:170px;
+  background-color:antiquewhite;
+  display:inline-block;
+  border-radius:40px;
+  border:4px solid;
+}
+
+img{
+  width:80px;
+}
+
+
+
+
